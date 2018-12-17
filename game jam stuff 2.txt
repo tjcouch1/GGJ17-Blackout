@@ -1,0 +1,19 @@
+I have some light scatters. The screen will be black for now, and the lights will reveal the environment. I think we can combine our ideas to make it work really well!
+
+All those little bits are going to show on top of the darkness
+
+Right now, you can't push stacked boxes. Too heavy
+
+before stuck
+image_alpha = life / lifecap
+lifealpha = image_alpha
+
+after stuck
+
+image_alpha = lifealpha * life / lifecap
+
+I'll fix taht soon
+
+Do you have your art?
+
+Where is the code for the lighting?

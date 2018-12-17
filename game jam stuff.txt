@@ -1,0 +1,98 @@
+Pow Wow Notes
+
+Progress/What we have
+
+Art
+	What assets have you made?
+	1. Boxes
+	2. Bulbs
+	3. Floors
+	4. Ladders
+	5. Light
+	6. A prototype player but I didn't have experience in animation - Liv can help with that
+	7. Switches (on and off)
+	
+
+What we need
+
+Roller skates? Probably not (nah)
+
+Liv
+	Flipping the switch
+	Walking
+	We might not need it since the lights are off (discussion now)
+		How would we see him going on the ladder?
+		No ladder animation for now - later if we have time
+	Discuss with you how to do the image style
+	
+Sounds - Andrew/Paul
+	Music - dark, spooky music
+	
+Title screen - in game
+
+Want to start collaborating with Liv now?
+She wants to match styles with you so it's coherent.
+
+You guys can go check out your progress now if you want!
+	
+
+What we want
+
+
+
+
+
+
+
+
+Hey, so, that guy who just stopped by asked if someone wants to talk about the game for a bit. It's a really casual thing, so Andrew and Liv are going to step out and talk to someone about it for a bit. I figure it shouldn't get too big since we need to keep working.
+
+
+
+
+
+
+
+I made pushing blocks really quickly. It doesn't look too great yet, but I'm working on it
+
+
+
+
+
+
+
+
+
+
+
+GGJ Usernames
+Ridgeman
+RetroGeorge
+AdreZ
+
+Thinking about when to come back tomorrow
+
+I have to leave in 20 minutes :(
+I'll keep coding tonight, and we can finish up tomorrow, hopefully
+
+I'm thinking I'll be back around 1:30 or 2 tomorrow afternoon
+
+Remember these games will be submitted by 4 PM
+
+Yeah, I know. I just have church in the morning, so I'll be kinda late. I'm hoping I'll finish programming tonight, though, so we can just put it all together tomorrow.
+
+
+We're talking about my age....
+
+Game called Crashlands by Butterscotch Shenanigans. Self-supporting. Lots of awards. One of the members was dying of cancer during development. Helped him get away from cancer. He survived! Lots of swearing on the podcast, but the games are kid-friendly.
+
+
+People may be going to Jimmy Johns tonight, and people might be going to Pints and Pixels tomorrow.
+
+I unfortunately have to head out for the night, though :(
+
+Can you send some of the instructions and feedback about this game?
+
+email address?
+
+No wifi. I'll do it in a sec
